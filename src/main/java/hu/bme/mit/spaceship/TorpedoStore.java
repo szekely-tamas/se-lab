@@ -14,7 +14,7 @@ public class TorpedoStore {
 
   private int torpedoCount = 0;
 
-  private Random generator = new Random();
+  private Random generator = new Random(); //SZIA TIBI, MILYEN CSODÁS EZ A NAP
 
 
   public TorpedoStore(int numberOfTorpedos){
